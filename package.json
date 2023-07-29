@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2",
+    "node": "^20.5.0"
+  },
+  "name": "nodejsday39",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "santhosh",
+  "license": "ISC",
+  "description": ""
+}
